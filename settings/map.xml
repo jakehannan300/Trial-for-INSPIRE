@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <map version="7.0.0" htmlParse="false">
+     <column id="-3" colour="FFD5D5">1</column>
+     <column id="-2" colour="FFD5D5">2</column>
+     <column id="-1" colour="FFD5D5">3</column>
+     <column id="0" colour="E9E9E9">4</column>
+     <column id="1" colour="9FDFBF">3</column>
+     <column id="2" colour="9FDFBF">2</column>
+     <column id="3" colour="9FDFBF">1</column>
+     <item id="qSortHeaderNumbers">-3,-2,-1,0,1,2,3</item>
+     <item id="qSortHeaders">N3,N2,N1,0,1,2,3</item>
+     <item id="qSortPattern">1,2,3,4,3,2,1</item>
+     <item id="columnHeadersColorsArray">#ffb1b1,#ffc4c4,#ffd8d8,#F3F4F6,#d8ffd8,#c4ffc4,#b1ffb1</item>
+     <item id="columnColorsArray">whitesmoke,whitesmoke,whitesmoke,whitesmoke,whitesmoke,whitesmoke,whitesmoke</item>
+   </map>
